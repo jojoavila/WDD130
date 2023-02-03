@@ -1,12 +1,11 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Mukta&family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Mochiy+Pop+One&family=Mukta&family=Open+Sans:wght@300&family=Permanent+Marker&family=Roboto&display=swap');
 
 #content {
     max-width: 1600px;
     margin: 0 auto;
 }
 body {
-    font-family: 'Mukta';
+    font-family: 'Mukta','Roboto','Open Sans';
     font-size: 22px;
     background-color: rgba(162, 191, 87, 0.365);
     margin: 0;
@@ -65,12 +64,12 @@ nav a {
 .home-title {
     color: black;
     font-size: 2em;
-    font-family: 'Permanent Marker';
+    font-family: 'Permanent Marker','Mochiy Pop One','Anton';
     margin-top: 10px;
 }
 h4 {
     color: black;
-    font-family: 'Permanent Marker';
+    font-family: 'Permanent Marker','Mochiy Pop One','Anton';
 }
 .msg h2 {
     color:black;
