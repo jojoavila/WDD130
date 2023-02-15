@@ -1,0 +1,14 @@
+Colors:
+	•C9DAEA
+	•03F7EB
+	•00B295
+	•191516
+	•AB2346
+
+Fonts
+	•Titles
+		○Tourney, Chakra Petch, Righteous
+		○@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500&family=Righteous&family=Tourney&display=swap');
+	•Paragraphs
+		○Poppins, Lato, Montserrat
+		○@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&family=Montserrat:ital,wght@1,300&family=Poppins:ital,wght@1,300&display=swap');
