@@ -1,9 +1,10 @@
 Colors:
-	•C9DAEA
+	•D33B3B
 	•03F7EB
 	•00B295
 	•191516
-	•AB2346
+	•2259DA
+Pallete URL: https://coolors.co/d33b3b-03f7eb-00b295-191516-2259da
 
 Fonts
 	•Titles
