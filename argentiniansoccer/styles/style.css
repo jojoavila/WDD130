@@ -209,7 +209,8 @@ footer a:hover{
     box-shadow: 5px 5px 10px #6f7364;
 }
 table {
-    font-size: 4em;
+    font-size: 3em;
+    font-family: Poppins, Lato, Montserrat;
     margin: 50px auto;
     padding: auto;
     background-color: #2259da80;    
