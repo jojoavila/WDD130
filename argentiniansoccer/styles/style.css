@@ -75,10 +75,11 @@ footer a:hover{
 
 .home-grid {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: auto;
 }
 .home-title {
-    font-family: Tourney, Chakra Petch, Righteous;    
+    font-family: Tourney, Chakra Petch, Righteous; 
+
 }
 #history-title {
     grid-row: 1;
@@ -185,4 +186,44 @@ footer a:hover{
     padding: 2px 16px;
     background-color: rgba(0, 0, 255, 0.315);
     color: white;
+  }
+.team {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows:  1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+#msg {
+    background-color: #9b9d2a;
+    padding: 35px;
+    grid-column: 1/4;
+    grid-row: 1/11;
+    box-shadow: 5px 5px 10px #6f7364;
+    text-align: center;
+    align-self: center;
+    font-size: 4em;
+}
+#team {
+    width: 100%;
+    grid-column: 3/11;
+    grid-row: 1/11;
+    box-shadow: 5px 5px 10px #6f7364;
+}
+table {
+    font-size: 4em;
+    margin: 50px auto;
+    padding: auto;
+    background-color: #2259da80;    
+    text-align: center;
+}
+table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #d33b3bd2;
+    color: white;
+    text-align: center;
+  }
+table th, table td {
+    border: 1px solid #ddd;
+    padding: 8px;
   }
